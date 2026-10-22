@@ -10937,7 +10937,7 @@
       },
       {
         "name": "texture_00",
-        "path": "textures/texture_00.png",
+        "path": "textures/texture_00_clean.png",
         "width": 2048,
         "height": 2048,
         "bundle": "l2d/10010100012/l2d/10010100012.prefab_dc2ad9b837a0494deb5d516c479e3e35.bundle"
