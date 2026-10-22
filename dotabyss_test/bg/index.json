@@ -1,0 +1,20 @@
+{
+  "generatedBy": "tools/extract_bg_assets.py",
+  "backgrounds": {
+    "abg11000a": {
+      "id": "abg11000a",
+      "path": "backgrounds/novel/abg11000a.png",
+      "sourceBundle": "general-ui-bg-novel/assets/assets/project/lazyassets/general/ui/bg/novel/abg11000a.png_fe94d3ce4c967ba6ca910d6118c0b048.bundle",
+      "sourceObject": "abg11000a",
+      "sourceType": "Sprite",
+      "width": 2744,
+      "height": 2744
+    }
+  },
+  "errors": [
+    {
+      "id": "abg12100a",
+      "error": "bundle not found"
+    }
+  ]
+}

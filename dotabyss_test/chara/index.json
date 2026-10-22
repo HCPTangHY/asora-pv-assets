@@ -1,0 +1,38 @@
+{
+  "characters": [
+    {
+      "id": "100101000G",
+      "faces": [
+        "anger",
+        "closed",
+        "fun",
+        "happy",
+        "normal",
+        "sad",
+        "shy",
+        "surprise",
+        "unique01",
+        "unique02"
+      ],
+      "body": true
+    },
+    {
+      "id": "100101000X",
+      "faces": [
+        "anger",
+        "closed",
+        "fun",
+        "happy",
+        "normal",
+        "sad",
+        "shy",
+        "surprise",
+        "unique01",
+        "unique02"
+      ],
+      "body": true
+    }
+  ],
+  "emotions": [],
+  "failures": []
+}

@@ -1,0 +1,636 @@
+{
+  "entries": [
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_hmr_10010100012.txt_c42456be31296e47849968633a99802d.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/hmr/10010100012.txt_c42456be31296e47849968633a99802d.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_hmr_10010100012.txt_c42456be31296e47849968633a99802d.bundle",
+      "expectedSize": "10209",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion00.fade.asset_cb32e76d91ac27901e00464648fc25d0.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyebrowemotion00.fade.asset_cb32e76d91ac27901e00464648fc25d0.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion00.fade.asset_cb32e76d91ac27901e00464648fc25d0.bundle",
+      "expectedSize": "2088",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion01.fade.asset_5d638948c17e94f1ac445a370ba8f8f5.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyebrowemotion01.fade.asset_5d638948c17e94f1ac445a370ba8f8f5.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion01.fade.asset_5d638948c17e94f1ac445a370ba8f8f5.bundle",
+      "expectedSize": "2072",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion02.fade.asset_91532cf1621849f997575141a56615f2.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyebrowemotion02.fade.asset_91532cf1621849f997575141a56615f2.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion02.fade.asset_91532cf1621849f997575141a56615f2.bundle",
+      "expectedSize": "2086",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion03.fade.asset_ecf1f8e00e09dfb7734b3939fc70961a.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyebrowemotion03.fade.asset_ecf1f8e00e09dfb7734b3939fc70961a.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion03.fade.asset_ecf1f8e00e09dfb7734b3939fc70961a.bundle",
+      "expectedSize": "2100",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion04.fade.asset_42591edc635ec3421f69e3de31eb972d.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyebrowemotion04.fade.asset_42591edc635ec3421f69e3de31eb972d.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion04.fade.asset_42591edc635ec3421f69e3de31eb972d.bundle",
+      "expectedSize": "2079",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion05.fade.asset_20420996cf2eb6397a7c1e39de4bb780.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyebrowemotion05.fade.asset_20420996cf2eb6397a7c1e39de4bb780.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion05.fade.asset_20420996cf2eb6397a7c1e39de4bb780.bundle",
+      "expectedSize": "2101",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion06.fade.asset_b3e5c3f3684c78a15f7d87171c03466c.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyebrowemotion06.fade.asset_b3e5c3f3684c78a15f7d87171c03466c.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyebrowemotion06.fade.asset_b3e5c3f3684c78a15f7d87171c03466c.bundle",
+      "expectedSize": "2085",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionbottom.fade.asset_cf0207bbd149e4bc20588d43f0176839.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotionbottom.fade.asset_cf0207bbd149e4bc20588d43f0176839.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionbottom.fade.asset_cf0207bbd149e4bc20588d43f0176839.bundle",
+      "expectedSize": "2076",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionbottomleft.fade.asset_85496dbc246a08b6ea8a28c9c47cd783.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotionbottomleft.fade.asset_85496dbc246a08b6ea8a28c9c47cd783.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionbottomleft.fade.asset_85496dbc246a08b6ea8a28c9c47cd783.bundle",
+      "expectedSize": "2069",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionbottomright.fade.asset_5501be2a70d9afef683ba0e620a8b704.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotionbottomright.fade.asset_5501be2a70d9afef683ba0e620a8b704.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionbottomright.fade.asset_5501be2a70d9afef683ba0e620a8b704.bundle",
+      "expectedSize": "2068",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotioncenter.fade.asset_a8e938cd96f36aea28539a89d62009de.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotioncenter.fade.asset_a8e938cd96f36aea28539a89d62009de.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotioncenter.fade.asset_a8e938cd96f36aea28539a89d62009de.bundle",
+      "expectedSize": "2062",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionleft.fade.asset_a5888d70d00b24cb2f3a3cbc5fb600a6.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotionleft.fade.asset_a5888d70d00b24cb2f3a3cbc5fb600a6.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionleft.fade.asset_a5888d70d00b24cb2f3a3cbc5fb600a6.bundle",
+      "expectedSize": "2064",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionright.fade.asset_a3f61480f4d679a5f1f39683d83b0c7e.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotionright.fade.asset_a3f61480f4d679a5f1f39683d83b0c7e.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotionright.fade.asset_a3f61480f4d679a5f1f39683d83b0c7e.bundle",
+      "expectedSize": "2070",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotiontop.fade.asset_543782b6d250fa32f5f9ee4f9af1dd3a.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotiontop.fade.asset_543782b6d250fa32f5f9ee4f9af1dd3a.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotiontop.fade.asset_543782b6d250fa32f5f9ee4f9af1dd3a.bundle",
+      "expectedSize": "2053",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotiontopleft.fade.asset_33750e6bb877ff8b7ff2a8858b4f84bf.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotiontopleft.fade.asset_33750e6bb877ff8b7ff2a8858b4f84bf.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotiontopleft.fade.asset_33750e6bb877ff8b7ff2a8858b4f84bf.bundle",
+      "expectedSize": "2066",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotiontopright.fade.asset_9cf512aba486b6bcc7690817e524b332.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeemotiontopright.fade.asset_9cf512aba486b6bcc7690817e524b332.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeemotiontopright.fade.asset_9cf512aba486b6bcc7690817e524b332.bundle",
+      "expectedSize": "2066",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen00.fade.asset_22bb5873baddd3aa20efaf9fe8b8b7e3.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeopen00.fade.asset_22bb5873baddd3aa20efaf9fe8b8b7e3.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen00.fade.asset_22bb5873baddd3aa20efaf9fe8b8b7e3.bundle",
+      "expectedSize": "2084",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen01.fade.asset_9a3646d393aa84d1c3a4b7017b653588.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeopen01.fade.asset_9a3646d393aa84d1c3a4b7017b653588.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen01.fade.asset_9a3646d393aa84d1c3a4b7017b653588.bundle",
+      "expectedSize": "2072",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen02.fade.asset_de90fb5ee629d0769e452c4064f7b4cf.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeopen02.fade.asset_de90fb5ee629d0769e452c4064f7b4cf.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen02.fade.asset_de90fb5ee629d0769e452c4064f7b4cf.bundle",
+      "expectedSize": "2081",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen03.fade.asset_2f5a773304a336c61833083b16bf2903.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeopen03.fade.asset_2f5a773304a336c61833083b16bf2903.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen03.fade.asset_2f5a773304a336c61833083b16bf2903.bundle",
+      "expectedSize": "2084",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen04.fade.asset_019e2509ebf51008aba23475c3c6d8f0.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeopen04.fade.asset_019e2509ebf51008aba23475c3c6d8f0.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen04.fade.asset_019e2509ebf51008aba23475c3c6d8f0.bundle",
+      "expectedSize": "2083",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen05.fade.asset_f31711116f28d862e1bdb8e12ed265f1.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/eyeopen05.fade.asset_f31711116f28d862e1bdb8e12ed265f1.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_eyeopen05.fade.asset_f31711116f28d862e1bdb8e12ed265f1.bundle",
+      "expectedSize": "2084",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceanglebottom.fade.asset_d6ff33591cc4dbf7328f7a057f6ce96d.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/faceanglebottom.fade.asset_d6ff33591cc4dbf7328f7a057f6ce96d.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceanglebottom.fade.asset_d6ff33591cc4dbf7328f7a057f6ce96d.bundle",
+      "expectedSize": "2294",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceanglebottomright.fade.asset_50bb4bb702343eea21ffeaa2c9b4de24.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/faceanglebottomright.fade.asset_50bb4bb702343eea21ffeaa2c9b4de24.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceanglebottomright.fade.asset_50bb4bb702343eea21ffeaa2c9b4de24.bundle",
+      "expectedSize": "2310",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceangleleft.fade.asset_70eaa4464f95efc982ad6424d43667c1.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/faceangleleft.fade.asset_70eaa4464f95efc982ad6424d43667c1.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceangleleft.fade.asset_70eaa4464f95efc982ad6424d43667c1.bundle",
+      "expectedSize": "2314",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceangleright.fade.asset_0a68a96568fa987284be0899e6ff4922.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/faceangleright.fade.asset_0a68a96568fa987284be0899e6ff4922.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceangleright.fade.asset_0a68a96568fa987284be0899e6ff4922.bundle",
+      "expectedSize": "2314",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceangletop.fade.asset_40a51bb6f74494f23dacbf28394d68b7.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/faceangletop.fade.asset_40a51bb6f74494f23dacbf28394d68b7.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceangletop.fade.asset_40a51bb6f74494f23dacbf28394d68b7.bundle",
+      "expectedSize": "2282",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceangletopright.fade.asset_e31a310f4ec630de60993672f738135c.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/faceangletopright.fade.asset_e31a310f4ec630de60993672f738135c.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceangletopright.fade.asset_e31a310f4ec630de60993672f738135c.bundle",
+      "expectedSize": "2319",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceemotion00.fade.asset_b5f7ece12ee84732e010b723abc74da7.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/faceemotion00.fade.asset_b5f7ece12ee84732e010b723abc74da7.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceemotion00.fade.asset_b5f7ece12ee84732e010b723abc74da7.bundle",
+      "expectedSize": "2425",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceemotion01.fade.asset_7c600323c1500a2db491c0f30b17bce4.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/faceemotion01.fade.asset_7c600323c1500a2db491c0f30b17bce4.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_faceemotion01.fade.asset_7c600323c1500a2db491c0f30b17bce4.bundle",
+      "expectedSize": "2649",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion00.fade.asset_c9b4178329af019b8d932e5eec61d282.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/mouthemotion00.fade.asset_c9b4178329af019b8d932e5eec61d282.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion00.fade.asset_c9b4178329af019b8d932e5eec61d282.bundle",
+      "expectedSize": "2081",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion01.fade.asset_7a167715487336ebf2f7002219477b7c.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/mouthemotion01.fade.asset_7a167715487336ebf2f7002219477b7c.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion01.fade.asset_7a167715487336ebf2f7002219477b7c.bundle",
+      "expectedSize": "2100",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion02.fade.asset_6b6047352a15a2cbef2b306bef63b144.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/mouthemotion02.fade.asset_6b6047352a15a2cbef2b306bef63b144.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion02.fade.asset_6b6047352a15a2cbef2b306bef63b144.bundle",
+      "expectedSize": "2096",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion03.fade.asset_fcc434ac2ef71a96dee7ab26f735b372.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/mouthemotion03.fade.asset_fcc434ac2ef71a96dee7ab26f735b372.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion03.fade.asset_fcc434ac2ef71a96dee7ab26f735b372.bundle",
+      "expectedSize": "2092",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion04.fade.asset_dd00269e46c788ca883590e6f99a3033.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/mouthemotion04.fade.asset_dd00269e46c788ca883590e6f99a3033.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion04.fade.asset_dd00269e46c788ca883590e6f99a3033.bundle",
+      "expectedSize": "2081",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion05.fade.asset_3e6a26720da8ab6dd027c04895c2a6e0.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/mouthemotion05.fade.asset_3e6a26720da8ab6dd027c04895c2a6e0.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion05.fade.asset_3e6a26720da8ab6dd027c04895c2a6e0.bundle",
+      "expectedSize": "2082",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion06.fade.asset_dc3064bd2c94eb5f617e23c4b197b3cb.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/addanimations/mouthemotion06.fade.asset_dc3064bd2c94eb5f617e23c4b197b3cb.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_addanimations_mouthemotion06.fade.asset_dc3064bd2c94eb5f617e23c4b197b3cb.bundle",
+      "expectedSize": "2102",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene01_loop.fade.asset_1fea97f24641885206ebf8ce67c35ddc.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene01/loop.fade.asset_1fea97f24641885206ebf8ce67c35ddc.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene01_loop.fade.asset_1fea97f24641885206ebf8ce67c35ddc.bundle",
+      "expectedSize": "4403",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene02.fade.asset_e1253df69e02579072d20df9caadc3c0.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene02.fade.asset_e1253df69e02579072d20df9caadc3c0.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene02.fade.asset_e1253df69e02579072d20df9caadc3c0.bundle",
+      "expectedSize": "3839",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene02_loop.fade.asset_8534b1a23d14f11b60f5dd6162a7cbf8.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene02/loop.fade.asset_8534b1a23d14f11b60f5dd6162a7cbf8.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene02_loop.fade.asset_8534b1a23d14f11b60f5dd6162a7cbf8.bundle",
+      "expectedSize": "4204",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene03.fade.asset_ff283ca78bf05853da163cb5b29a63d5.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene03.fade.asset_ff283ca78bf05853da163cb5b29a63d5.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene03.fade.asset_ff283ca78bf05853da163cb5b29a63d5.bundle",
+      "expectedSize": "4029",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene03_loop.fade.asset_bb320db477bd1c0bc79513337596b60e.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene03/loop.fade.asset_bb320db477bd1c0bc79513337596b60e.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene03_loop.fade.asset_bb320db477bd1c0bc79513337596b60e.bundle",
+      "expectedSize": "4486",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene04.fade.asset_3af6e271c801ca03d96ab8637215bf4a.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene04.fade.asset_3af6e271c801ca03d96ab8637215bf4a.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene04.fade.asset_3af6e271c801ca03d96ab8637215bf4a.bundle",
+      "expectedSize": "3759",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene04_loop.fade.asset_f092786ab9117d0ed3566da0ad9673a0.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene04/loop.fade.asset_f092786ab9117d0ed3566da0ad9673a0.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene04_loop.fade.asset_f092786ab9117d0ed3566da0ad9673a0.bundle",
+      "expectedSize": "4408",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene05.fade.asset_f688761747e4a6291a91833b4cb529ff.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene05.fade.asset_f688761747e4a6291a91833b4cb529ff.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene05.fade.asset_f688761747e4a6291a91833b4cb529ff.bundle",
+      "expectedSize": "3844",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene05_loop.fade.asset_1a9a4d06c020c584d7d48fd7bcee6b2c.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene05/loop.fade.asset_1a9a4d06c020c584d7d48fd7bcee6b2c.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene05_loop.fade.asset_1a9a4d06c020c584d7d48fd7bcee6b2c.bundle",
+      "expectedSize": "4759",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene06.fade.asset_72d745418b8ee57d7bff98905b083f4e.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene06.fade.asset_72d745418b8ee57d7bff98905b083f4e.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene06.fade.asset_72d745418b8ee57d7bff98905b083f4e.bundle",
+      "expectedSize": "3552",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene06_loop.fade.asset_dbf16d3baac1b1557818fb2365cf9349.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene06/loop.fade.asset_dbf16d3baac1b1557818fb2365cf9349.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene06_loop.fade.asset_dbf16d3baac1b1557818fb2365cf9349.bundle",
+      "expectedSize": "4286",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene07.fade.asset_84fa28d93a78e11369e22df8de40b8c7.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene07.fade.asset_84fa28d93a78e11369e22df8de40b8c7.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene07.fade.asset_84fa28d93a78e11369e22df8de40b8c7.bundle",
+      "expectedSize": "4012",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene07_loop.fade.asset_2b592a6b3ea0b4c02efdfb6b638024d7.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene07/loop.fade.asset_2b592a6b3ea0b4c02efdfb6b638024d7.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene07_loop.fade.asset_2b592a6b3ea0b4c02efdfb6b638024d7.bundle",
+      "expectedSize": "4180",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene08.fade.asset_b57fb96e5e71d5975776cf311237af40.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene08.fade.asset_b57fb96e5e71d5975776cf311237af40.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene08.fade.asset_b57fb96e5e71d5975776cf311237af40.bundle",
+      "expectedSize": "5081",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene08_loop.fade.asset_fe54008226a2016f95ab40e3b2eb1be8.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene08/loop.fade.asset_fe54008226a2016f95ab40e3b2eb1be8.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene08_loop.fade.asset_fe54008226a2016f95ab40e3b2eb1be8.bundle",
+      "expectedSize": "3469",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene09.fade.asset_f8500aba1b1deb12d729aecdab38fb23.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene09.fade.asset_f8500aba1b1deb12d729aecdab38fb23.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene09.fade.asset_f8500aba1b1deb12d729aecdab38fb23.bundle",
+      "expectedSize": "3442",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene09_loop.fade.asset_b43edf378c786ee7c73b3d4cbef0e36a.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene09/loop.fade.asset_b43edf378c786ee7c73b3d4cbef0e36a.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene09_loop.fade.asset_b43edf378c786ee7c73b3d4cbef0e36a.bundle",
+      "expectedSize": "4186",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene10.fade.asset_b61af7c2286d8a5b4c8674dc713d1527.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene10.fade.asset_b61af7c2286d8a5b4c8674dc713d1527.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene10.fade.asset_b61af7c2286d8a5b4c8674dc713d1527.bundle",
+      "expectedSize": "6477",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene10_loop.fade.asset_e534a07780b6bfeab4b5e6ca2f560205.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene10/loop.fade.asset_e534a07780b6bfeab4b5e6ca2f560205.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene10_loop.fade.asset_e534a07780b6bfeab4b5e6ca2f560205.bundle",
+      "expectedSize": "4464",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene11.fade.asset_ef378613d8561424f0d03c05712f9498.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene11.fade.asset_ef378613d8561424f0d03c05712f9498.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene11.fade.asset_ef378613d8561424f0d03c05712f9498.bundle",
+      "expectedSize": "6420",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene11_loop.fade.asset_4c65bc592a1e4e4d556e920c017d6f9d.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene11/loop.fade.asset_4c65bc592a1e4e4d556e920c017d6f9d.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene11_loop.fade.asset_4c65bc592a1e4e4d556e920c017d6f9d.bundle",
+      "expectedSize": "4792",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene12.fade.asset_f61f95833c06da701289c5393700d49d.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene12.fade.asset_f61f95833c06da701289c5393700d49d.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene12.fade.asset_f61f95833c06da701289c5393700d49d.bundle",
+      "expectedSize": "4102",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene12_loop.fade.asset_b1617e41e9aedc48e77de8c22c6d096b.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/animations/scene12/loop.fade.asset_b1617e41e9aedc48e77de8c22c6d096b.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_animations_scene12_loop.fade.asset_b1617e41e9aedc48e77de8c22c6d096b.bundle",
+      "expectedSize": "3660",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_effectobject.prefab_840a26b277b5eb837a9792b12a59c573.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/effectobject.prefab_840a26b277b5eb837a9792b12a59c573.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_effectobject.prefab_840a26b277b5eb837a9792b12a59c573.bundle",
+      "expectedSize": "6536",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_l2d_10010100012.asset_c6112011bf6455da0f35a7eaf5f32301.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/l2d/10010100012.asset_c6112011bf6455da0f35a7eaf5f32301.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_l2d_10010100012.asset_c6112011bf6455da0f35a7eaf5f32301.bundle",
+      "expectedSize": "1063238",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_l2d_10010100012.fademotionlist.asset_20f629e58aa4dbddac86298a6d398077.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/l2d/10010100012.fademotionlist.asset_20f629e58aa4dbddac86298a6d398077.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_l2d_10010100012.fademotionlist.asset_20f629e58aa4dbddac86298a6d398077.bundle",
+      "expectedSize": "5430",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_l2d_10010100012.prefab_dc2ad9b837a0494deb5d516c479e3e35.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/l2d/10010100012.prefab_dc2ad9b837a0494deb5d516c479e3e35.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_l2d_10010100012.prefab_dc2ad9b837a0494deb5d516c479e3e35.bundle",
+      "expectedSize": "1875972",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_postprocess.asset_bd713a1f5e47ae0c548d65f9030deb32.bundle",
+      "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012/l2d/10010100012/postprocess.asset_bd713a1f5e47ae0c548d65f9030deb32.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100012_l2d_10010100012_postprocess.asset_bd713a1f5e47ae0c548d65f9030deb32.bundle",
+      "expectedSize": "2378",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_backgroundvoice_chara_chara_100101000_hmr_10010100012_bgv.acb_c8594506561926edcc65f021cae4b576.bundle",
+      "outputRelativePath": "r18-only-sound-cri/assets/assets/project/lazyassets/r18-only/sound/cri/pc/workunit/novel/r18/backgroundvoice/chara/chara/100101000/hmr/10010100012/bgv.acb_c8594506561926edcc65f021cae4b576.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_backgroundvoice_chara_chara_100101000_hmr_10010100012_bgv.acb_c8594506561926edcc65f021cae4b576.bundle",
+      "expectedSize": "2295427",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_voice_chara_chara_100101000_hmr_10010100012.acb_41c23982cf55e568b68ea3a8e8d56873.bundle",
+      "outputRelativePath": "r18-only-sound-cri/assets/assets/project/lazyassets/r18-only/sound/cri/pc/workunit/novel/r18/voice/chara/chara/100101000/hmr/10010100012.acb_41c23982cf55e568b68ea3a8e8d56873.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_voice_chara_chara_100101000_hmr_10010100012.acb_41c23982cf55e568b68ea3a8e8d56873.bundle",
+      "expectedSize": "8703565",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    }
+  ],
+  "audio": [
+    {
+      "remoteRelativePath": "r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_backgroundvoice_chara_chara_100101000_hmr_10010100012_bgv.acb_c8594506561926edcc65f021cae4b576.bundle",
+      "outputRelativePath": "r18-only-sound-cri/assets/assets/project/lazyassets/r18-only/sound/cri/pc/workunit/novel/r18/backgroundvoice/chara/chara/100101000/hmr/10010100012/bgv.acb_c8594506561926edcc65f021cae4b576.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_backgroundvoice_chara_chara_100101000_hmr_10010100012_bgv.acb_c8594506561926edcc65f021cae4b576.bundle",
+      "expectedSize": "2295427",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    },
+    {
+      "remoteRelativePath": "r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_voice_chara_chara_100101000_hmr_10010100012.acb_41c23982cf55e568b68ea3a8e8d56873.bundle",
+      "outputRelativePath": "r18-only-sound-cri/assets/assets/project/lazyassets/r18-only/sound/cri/pc/workunit/novel/r18/voice/chara/chara/100101000/hmr/10010100012.acb_41c23982cf55e568b68ea3a8e8d56873.bundle",
+      "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_voice_chara_chara_100101000_hmr_10010100012.acb_41c23982cf55e568b68ea3a8e8d56873.bundle",
+      "expectedSize": "8703565",
+      "hash": "",
+      "crc": "0",
+      "providerId": ""
+    }
+  ]
+}

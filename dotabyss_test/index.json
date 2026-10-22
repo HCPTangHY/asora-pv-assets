@@ -1,0 +1,200 @@
+{
+  "generatedBy": "tools/adv_extract.py",
+  "stories": [
+    {
+      "id": "10010100011",
+      "title": "ローザ / 10010100011",
+      "path": "stories/10010100011/story.json",
+      "root": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100011",
+      "stats": {
+        "scriptCount": 1,
+        "messageCount": 21,
+        "textureCount": 0,
+        "animationCount": 0,
+        "motionCount": 0,
+        "audioCueCount": 11,
+        "bundleErrorCount": 0
+      }
+    },
+    {
+      "id": "10010100012",
+      "title": "ローザ / 10010100012",
+      "path": "stories/10010100012/story.json",
+      "root": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100012",
+      "stats": {
+        "scriptCount": 1,
+        "messageCount": 90,
+        "textureCount": 3,
+        "animationCount": 60,
+        "motionCount": 120,
+        "audioCueCount": 62,
+        "bundleErrorCount": 0
+      }
+    }
+  ],
+  "commandInfo": {
+    ":label": {
+      "category": "flow",
+      "title": "标签",
+      "args": [
+        "label"
+      ],
+      "description": "NovelScriptCommands uses ':' lines as jump targets."
+    },
+    "adultui": {
+      "category": "ui",
+      "title": "成人 UI 开关",
+      "args": [
+        "on/off"
+      ],
+      "description": "NovelCmdAdultUI toggles the adult-scene overlay state."
+    },
+    "uivisible": {
+      "category": "ui",
+      "title": "UI 可见性",
+      "args": [
+        "on/off"
+      ],
+      "description": "NovelCmdUIVisible toggles the common UI layer."
+    },
+    "window": {
+      "category": "ui",
+      "title": "文本窗口",
+      "args": [
+        "on/off",
+        "fade_seconds"
+      ],
+      "description": "NovelCmdWindow changes the message window visibility/fade."
+    },
+    "fade": {
+      "category": "screen",
+      "title": "画面淡入淡出",
+      "args": [
+        "In/Out",
+        "color",
+        "seconds"
+      ],
+      "description": "NovelCmdFade drives the screen fade model."
+    },
+    "message": {
+      "category": "text",
+      "title": "旁白/普通文本",
+      "args": [
+        "speaker",
+        "message",
+        "voice?"
+      ],
+      "description": "NovelCmdMessage writes to NovelModelMessage and may play voice."
+    },
+    "l2dmessage": {
+      "category": "text",
+      "title": "Live2D 台词",
+      "args": [
+        "speaker",
+        "message",
+        "face_or_empty",
+        "voice_id"
+      ],
+      "description": "NovelCmdL2dMessage derives from NovelCmdMessage and ties speech to Live2D/lip sync."
+    },
+    "l2dshow": {
+      "category": "live2d",
+      "title": "显示 Live2D",
+      "args": [
+        "model_object"
+      ],
+      "description": "NovelCmdL2dShow loads and draws a NovelModelLive2D object."
+    },
+    "l2dhide": {
+      "category": "live2d",
+      "title": "隐藏 Live2D",
+      "args": [],
+      "description": "NovelCmdL2dHide releases the active Live2D model."
+    },
+    "l2dmotion": {
+      "category": "live2d",
+      "title": "Live2D 动作",
+      "args": [
+        "motion_trigger"
+      ],
+      "description": "NovelCmdL2dMotion calls NovelModelLive2D.PlayMotion."
+    },
+    "asyncl2dmotion": {
+      "category": "live2d",
+      "title": "延迟 Live2D 动作",
+      "args": [
+        "motion_trigger",
+        "bool",
+        "async_code",
+        "delay_seconds"
+      ],
+      "description": "Async wrapper schedules PlayMotion and finishes according to STOP/async code."
+    },
+    "bgmplay": {
+      "category": "audio",
+      "title": "播放 BGM",
+      "args": [
+        "tag",
+        "cue",
+        "fade_seconds"
+      ],
+      "description": "NovelCmdBGMPlay starts a CRI cue by tag."
+    },
+    "bgmstop": {
+      "category": "audio",
+      "title": "停止 BGM",
+      "args": [
+        "tag",
+        "fade_seconds"
+      ],
+      "description": "NovelCmdBGMStop fades/stops a CRI cue by tag."
+    },
+    "bgvplay": {
+      "category": "audio",
+      "title": "播放背景语音/环境声",
+      "args": [
+        "tag",
+        "cue",
+        "volume",
+        "loop"
+      ],
+      "description": "NovelCmdBGVPlay starts a CRI background-voice cue."
+    },
+    "bgvstop": {
+      "category": "audio",
+      "title": "停止背景语音/环境声",
+      "args": [
+        "tag",
+        "fade_seconds",
+        "volume?"
+      ],
+      "description": "NovelCmdBGVStop fades/stops a CRI background-voice cue."
+    },
+    "charaload": {
+      "category": "character",
+      "title": "加载角色",
+      "args": [
+        "tag",
+        "character_id",
+        "display_name"
+      ],
+      "description": "NovelCmdCharaLoad registers a character resource/name."
+    },
+    "wait": {
+      "category": "flow",
+      "title": "等待",
+      "args": [
+        "seconds"
+      ],
+      "description": "NovelCmdWait blocks script playback for the given seconds."
+    },
+    "cleanall": {
+      "category": "screen",
+      "title": "清空场景",
+      "args": [
+        "target"
+      ],
+      "description": "NovelCmdCleanAll clears visible scene objects/layers."
+    }
+  }
+}

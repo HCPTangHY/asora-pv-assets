@@ -1,0 +1,359 @@
+{
+  "id": "100101000G",
+  "sourceBundle": "workspace/bundles/android-dmm-r18/r18-only-charastand/assets/assets/project/lazyassets/r18-only/charastand/novel/prefabs/g/charastand100101000g.prefab_df4306827112dc5a1a435956f3ea84e9.bundle",
+  "rootRect": {
+    "anchoredPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "sizeDelta": {
+      "x": 2048.0,
+      "y": 2048.0
+    },
+    "anchorMin": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "anchorMax": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "localPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "localScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "father": 0,
+    "children": [
+      8758277044688708337,
+      -7545318034316664079,
+      -1318653424775994639
+    ],
+    "rectId": 6161204763890213617,
+    "worldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "bodyRect": {
+    "anchoredPosition": {
+      "x": 9.0,
+      "y": -538.0
+    },
+    "sizeDelta": {
+      "x": 1715.0001220703125,
+      "y": 2247.165771484375
+    },
+    "anchorMin": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "anchorMax": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "localPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "localScale": {
+      "x": 0.75,
+      "y": 0.75,
+      "z": 0.75
+    },
+    "father": -5204080965546876175,
+    "children": [
+      -5632795981725637903
+    ],
+    "rectId": -7122952745363774735,
+    "worldPosition": {
+      "x": 9.0,
+      "y": -538.0
+    }
+  },
+  "faceContentRect": {
+    "anchoredPosition": {
+      "x": -1.0,
+      "y": 734.5999755859375
+    },
+    "sizeDelta": {
+      "x": 232.0,
+      "y": 193.0
+    },
+    "anchorMin": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "anchorMax": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "localPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "localScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "father": -7122952745363774735,
+    "children": [
+      5236353659222483697,
+      -4725076963820707087,
+      -3902883720506383631,
+      -2869577218366905615,
+      5143245438422344433,
+      4559727428445659889,
+      2938011443648848625,
+      -8535303727737937167,
+      6049337964983935729
+    ],
+    "rectId": -5632795981725637903,
+    "worldPosition": {
+      "x": 8.0,
+      "y": 196.5999755859375
+    }
+  },
+  "emotionRect": {
+    "anchoredPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "sizeDelta": {
+      "x": 150.0,
+      "y": 150.0
+    },
+    "anchorMin": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "anchorMax": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "localPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "localScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "father": 6161204763890213617,
+    "children": [],
+    "rectId": -1318653424775994639,
+    "worldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "effectRect": {
+    "anchoredPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "sizeDelta": {
+      "x": 150.0,
+      "y": 150.0
+    },
+    "anchorMin": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "anchorMax": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "localPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "localScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "father": 6161204763890213617,
+    "children": [],
+    "rectId": 8758277044688708337,
+    "worldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "zoomRect": {
+    "anchoredPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "sizeDelta": {
+      "x": 3072.0,
+      "y": 3072.0
+    },
+    "anchorMin": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "anchorMax": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "localPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "localScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "father": 6161204763890213617,
+    "children": [
+      -5204080965546876175,
+      -5724854453786516751
+    ],
+    "rectId": -7545318034316664079,
+    "worldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "poseRect": {
+    "anchoredPosition": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "sizeDelta": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "anchorMin": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "anchorMax": {
+      "x": 1.0,
+      "y": 1.0
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "localPosition": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "localScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    },
+    "father": -7545318034316664079,
+    "children": [
+      -7122952745363774735
+    ],
+    "rectId": -5204080965546876175,
+    "worldPosition": {
+      "x": 0.0,
+      "y": 0.0
+    }
+  },
+  "files": {
+    "body": "body.png"
+  },
+  "faces": {
+    "anger": "faces/anger.png",
+    "normal": "faces/normal.png",
+    "sad": "faces/sad.png",
+    "happy": "faces/happy.png",
+    "shy": "faces/shy.png",
+    "closed": "faces/closed.png",
+    "surprise": "faces/surprise.png",
+    "unique01": "faces/unique01.png",
+    "unique02": "faces/unique02.png",
+    "fun": "faces/fun.png"
+  },
+  "spriteSizes": {
+    "Anger": {
+      "width": 225,
+      "height": 171
+    },
+    "Normal": {
+      "width": 225,
+      "height": 166
+    },
+    "Sad": {
+      "width": 225,
+      "height": 164
+    },
+    "Happy": {
+      "width": 225,
+      "height": 166
+    },
+    "Body": {
+      "width": 1563,
+      "height": 2048
+    },
+    "Shy": {
+      "width": 227,
+      "height": 178
+    },
+    "Closed": {
+      "width": 225,
+      "height": 166
+    },
+    "Surprise": {
+      "width": 225,
+      "height": 177
+    },
+    "Unique01": {
+      "width": 225,
+      "height": 171
+    },
+    "Unique02": {
+      "width": 227,
+      "height": 187
+    },
+    "Fun": {
+      "width": 225,
+      "height": 166
+    }
+  }
+}

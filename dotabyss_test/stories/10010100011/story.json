@@ -1,0 +1,3533 @@
+{
+  "id": "10010100011",
+  "sourceId": "10010100011",
+  "root": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100011",
+  "scripts": [
+    {
+      "id": "hmr_10010100011",
+      "name": "hmr_10010100011",
+      "bundle": "hmr/10010100011.txt_af81ba39e8c48e1c5a07f00a3ef907a7.bundle",
+      "text": "textassets/hmr_10010100011.txt",
+      "lineCount": 360,
+      "commands": [
+        {
+          "index": 0,
+          "line": 1,
+          "command": "live2dinit",
+          "rawCommand": "live2dinit",
+          "args": [],
+          "category": "unknown",
+          "title": "live2dinit"
+        },
+        {
+          "index": 1,
+          "line": 3,
+          "command": "fade",
+          "rawCommand": "fade",
+          "args": [
+            "Out",
+            "Black",
+            "0"
+          ],
+          "category": "screen",
+          "title": "画面淡入淡出",
+          "direction": "Out",
+          "color": "Black",
+          "seconds": 0.0
+        },
+        {
+          "index": 2,
+          "line": 4,
+          "command": "initend",
+          "rawCommand": "initend",
+          "args": [],
+          "category": "unknown",
+          "title": "initend"
+        },
+        {
+          "index": 3,
+          "line": 6,
+          "command": "bg",
+          "rawCommand": "bg",
+          "args": [
+            "abg11000a"
+          ],
+          "category": "unknown",
+          "title": "bg"
+        },
+        {
+          "index": 4,
+          "line": 8,
+          "command": "scale",
+          "rawCommand": "scale",
+          "args": [
+            "BACK",
+            "",
+            "0",
+            "1",
+            "1",
+            "Set"
+          ],
+          "category": "unknown",
+          "title": "scale"
+        },
+        {
+          "index": 5,
+          "line": 10,
+          "command": "charaload",
+          "rawCommand": "charaload",
+          "args": [
+            "chara_1",
+            "100101000G",
+            "ローザ"
+          ],
+          "category": "character",
+          "title": "加载角色"
+        },
+        {
+          "index": 6,
+          "line": 12,
+          "command": "charaload",
+          "rawCommand": "charaload",
+          "args": [
+            "chara_2",
+            "100101000X",
+            "ローザ<娼館>"
+          ],
+          "category": "character",
+          "title": "加载角色"
+        },
+        {
+          "index": 7,
+          "line": 13,
+          "command": "charamove",
+          "rawCommand": "charamove",
+          "args": [
+            "chara_2",
+            "Set",
+            "X",
+            "-100",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "charamove"
+        },
+        {
+          "index": 8,
+          "line": 15,
+          "command": "subimage",
+          "rawCommand": "subimage",
+          "args": [
+            "UI/BG/Novel/abg18200a",
+            "subimage_1",
+            "0",
+            "CHARA",
+            "1",
+            "FRONT"
+          ],
+          "category": "unknown",
+          "title": "subimage"
+        },
+        {
+          "index": 9,
+          "line": 16,
+          "command": "scale",
+          "rawCommand": "scale",
+          "args": [
+            "SUBIMAGE",
+            "subimage_1",
+            "0",
+            "150",
+            "150",
+            "LinearTarget"
+          ],
+          "category": "unknown",
+          "title": "scale"
+        },
+        {
+          "index": 10,
+          "line": 18,
+          "command": "fade",
+          "rawCommand": "fade",
+          "args": [
+            "In",
+            "Black",
+            "0.5"
+          ],
+          "category": "screen",
+          "title": "画面淡入淡出",
+          "direction": "In",
+          "color": "Black",
+          "seconds": 0.5
+        },
+        {
+          "index": 11,
+          "line": 20,
+          "command": "seplay",
+          "rawCommand": "seplay",
+          "args": [
+            "seopening_tag",
+            "se5030001"
+          ],
+          "category": "unknown",
+          "title": "seplay"
+        },
+        {
+          "index": 12,
+          "line": 21,
+          "command": "title",
+          "rawCommand": "title",
+          "args": [
+            "忠誠と愛を捧ぐ"
+          ],
+          "category": "unknown",
+          "title": "title"
+        },
+        {
+          "index": 13,
+          "line": 23,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "1"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 1.0
+        },
+        {
+          "index": 14,
+          "line": 25,
+          "command": "bgmplay",
+          "rawCommand": "bgmplay",
+          "args": [
+            "bgmtag1_1",
+            "bgm0024",
+            "0.75",
+            "1"
+          ],
+          "category": "audio",
+          "title": "播放 BGM",
+          "cue": "bgm0024"
+        },
+        {
+          "index": 15,
+          "line": 27,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 16,
+          "line": 28,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "困ったな……。<br>娼館が盛況なのはいいんだが、人手が足りなくなってきたか……"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "困ったな……。<br>娼館が盛況なのはいいんだが、人手が足りなくなってきたか……",
+          "voice": ""
+        },
+        {
+          "index": 17,
+          "line": 30,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 18,
+          "line": 31,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 19,
+          "line": 33,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 20,
+          "line": 35,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_1",
+            "se4300007",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 21,
+          "line": 37,
+          "command": "transitioncrossfadeready",
+          "rawCommand": "transitionCrossFadeReady",
+          "args": [],
+          "category": "unknown",
+          "title": "transitionCrossFadeReady"
+        },
+        {
+          "index": 22,
+          "line": 39,
+          "command": "bg",
+          "rawCommand": "bg",
+          "args": [
+            "abg11000a"
+          ],
+          "category": "unknown",
+          "title": "bg"
+        },
+        {
+          "index": 23,
+          "line": 41,
+          "command": "scale",
+          "rawCommand": "scale",
+          "args": [
+            "BACK",
+            "",
+            "0",
+            "1.3",
+            "1.3",
+            "Set"
+          ],
+          "category": "unknown",
+          "title": "scale"
+        },
+        {
+          "index": 24,
+          "line": 43,
+          "command": "blur",
+          "rawCommand": "blur",
+          "args": [
+            "on",
+            "BACK",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "blur"
+        },
+        {
+          "index": 25,
+          "line": 45,
+          "command": "asyncmove",
+          "rawCommand": "asyncmove",
+          "args": [
+            "BACK",
+            "",
+            "0",
+            "300",
+            "0",
+            "Set",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncmove"
+        },
+        {
+          "index": 26,
+          "line": 47,
+          "command": "transitioncrossfade",
+          "rawCommand": "transitionCrossFade",
+          "args": [
+            "Tra02",
+            "0.5"
+          ],
+          "category": "unknown",
+          "title": "transitionCrossFade"
+        },
+        {
+          "index": 27,
+          "line": 48,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.5"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.5
+        },
+        {
+          "index": 28,
+          "line": 50,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.5"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.5
+        },
+        {
+          "index": 29,
+          "line": 52,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_1",
+            "FaceFun",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 30,
+          "line": 54,
+          "command": "asynccharamove",
+          "rawCommand": "asynccharamove",
+          "args": [
+            "chara_1",
+            "Set",
+            "X",
+            "100",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asynccharamove"
+        },
+        {
+          "index": 31,
+          "line": 56,
+          "command": "asynccharamove",
+          "rawCommand": "asynccharamove",
+          "args": [
+            "chara_1",
+            "Set",
+            "CharaHeight",
+            "0",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asynccharamove"
+        },
+        {
+          "index": 32,
+          "line": 58,
+          "command": "asynccharascale",
+          "rawCommand": "asynccharascale",
+          "args": [
+            "chara_1",
+            "1.3",
+            "0",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharascale"
+        },
+        {
+          "index": 33,
+          "line": 60,
+          "command": "asynccharashow",
+          "rawCommand": "asynccharashow",
+          "args": [
+            "chara_1",
+            "0.3",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharashow"
+        },
+        {
+          "index": 34,
+          "line": 62,
+          "command": "asynccharamove",
+          "rawCommand": "asynccharamove",
+          "args": [
+            "chara_1",
+            "EaseOut",
+            "X",
+            "-100",
+            "0.3",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharamove"
+        },
+        {
+          "index": 35,
+          "line": 64,
+          "command": "asyncwait",
+          "rawCommand": "asyncwait",
+          "args": [],
+          "category": "unknown",
+          "title": "asyncwait"
+        },
+        {
+          "index": 36,
+          "line": 66,
+          "command": "linework",
+          "rawCommand": "linework",
+          "args": [
+            "on",
+            "White",
+            "Middle"
+          ],
+          "category": "unknown",
+          "title": "linework"
+        },
+        {
+          "index": 37,
+          "line": 68,
+          "command": "asyncjump",
+          "rawCommand": "asyncjump",
+          "args": [
+            "CHARA",
+            "chara_1",
+            "30",
+            "0.25",
+            "1",
+            "off",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncjump"
+        },
+        {
+          "index": 38,
+          "line": 70,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_2",
+            "se4800010",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 39,
+          "line": 72,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_1",
+            "Exclamation",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 40,
+          "line": 75,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 41,
+          "line": 76,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "お困りでしょうか、司令官殿！<br>散歩していたところ困ったという言葉が聞こえたので、駆けつけました！",
+            "100101000G",
+            "vc_10010100011_001_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "お困りでしょうか、司令官殿！<br>散歩していたところ困ったという言葉が聞こえたので、駆けつけました！",
+          "voice": "vc_10010100011_001_01"
+        },
+        {
+          "index": 42,
+          "line": 78,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 43,
+          "line": 79,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 44,
+          "line": 81,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 45,
+          "line": 83,
+          "command": "linework",
+          "rawCommand": "linework",
+          "args": [
+            "off",
+            "Black",
+            "Middle"
+          ],
+          "category": "unknown",
+          "title": "linework"
+        },
+        {
+          "index": 46,
+          "line": 85,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 47,
+          "line": 86,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "耳が良すぎる！　<br>お、お前は相変わらずどこからでも現れるな……"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "耳が良すぎる！　<br>お、お前は相変わらずどこからでも現れるな……",
+          "voice": ""
+        },
+        {
+          "index": 48,
+          "line": 88,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_1",
+            "FaceHappy",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 49,
+          "line": 90,
+          "command": "asyncjump",
+          "rawCommand": "asyncjump",
+          "args": [
+            "CHARA",
+            "chara_1",
+            "40",
+            "0.5",
+            "2",
+            "off",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncjump"
+        },
+        {
+          "index": 50,
+          "line": 92,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_3",
+            "se4800003",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 51,
+          "line": 94,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_1",
+            "Twinkle",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 52,
+          "line": 97,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "わたしは司令官殿の騎士ですから、困っている時に駆けつけるのは当然です！<br>それで、何があったのでしょう？　なんなりとお申し付けください！",
+            "100101000G",
+            "vc_10010100011_002_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "わたしは司令官殿の騎士ですから、困っている時に駆けつけるのは当然です！<br>それで、何があったのでしょう？　なんなりとお申し付けください！",
+          "voice": "vc_10010100011_002_01"
+        },
+        {
+          "index": 53,
+          "line": 99,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "気持ちはありがたいが、さすがにこれはな……"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "気持ちはありがたいが、さすがにこれはな……",
+          "voice": ""
+        },
+        {
+          "index": 54,
+          "line": 101,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_1",
+            "FaceFun",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 55,
+          "line": 103,
+          "command": "asyncjump",
+          "rawCommand": "asyncjump",
+          "args": [
+            "CHARA",
+            "chara_1",
+            "-30.6",
+            "0.5",
+            "1",
+            "off",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncjump"
+        },
+        {
+          "index": 56,
+          "line": 105,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_4",
+            "se4800019",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 57,
+          "line": 107,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_1",
+            "Elated",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 58,
+          "line": 110,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "遠慮しないでください！　わたし、頑張りますから！",
+            "100101000G",
+            "vc_10010100011_003_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "遠慮しないでください！　わたし、頑張りますから！",
+          "voice": "vc_10010100011_003_01"
+        },
+        {
+          "index": 59,
+          "line": 112,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "……それじゃあ、言うだけ言うが。<br>実はな……"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "……それじゃあ、言うだけ言うが。<br>実はな……",
+          "voice": ""
+        },
+        {
+          "index": 60,
+          "line": 115,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 61,
+          "line": 116,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 62,
+          "line": 118,
+          "command": "transitionfade",
+          "rawCommand": "transitionFade",
+          "args": [
+            "Tra10",
+            "out",
+            "black",
+            "1"
+          ],
+          "category": "unknown",
+          "title": "transitionFade",
+          "direction": "Tra10",
+          "color": "out",
+          "seconds": 0.0
+        },
+        {
+          "index": 63,
+          "line": 120,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 64,
+          "line": 122,
+          "command": "bg",
+          "rawCommand": "bg",
+          "args": [
+            "abg11000a"
+          ],
+          "category": "unknown",
+          "title": "bg"
+        },
+        {
+          "index": 65,
+          "line": 124,
+          "command": "scale",
+          "rawCommand": "scale",
+          "args": [
+            "BACK",
+            "",
+            "0",
+            "1.3",
+            "1.3",
+            "Set"
+          ],
+          "category": "unknown",
+          "title": "scale"
+        },
+        {
+          "index": 66,
+          "line": 126,
+          "command": "asyncmove",
+          "rawCommand": "asyncmove",
+          "args": [
+            "BACK",
+            "",
+            "0",
+            "0",
+            "0",
+            "Set",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncmove"
+        },
+        {
+          "index": 67,
+          "line": 128,
+          "command": "charaface",
+          "rawCommand": "charaface",
+          "args": [
+            "chara_1",
+            "FaceUnique02"
+          ],
+          "category": "unknown",
+          "title": "charaface"
+        },
+        {
+          "index": 68,
+          "line": 130,
+          "command": "transitionfade",
+          "rawCommand": "transitionFade",
+          "args": [
+            "Tra09",
+            "in",
+            "black",
+            "1"
+          ],
+          "category": "unknown",
+          "title": "transitionFade",
+          "direction": "Tra09",
+          "color": "in",
+          "seconds": 0.0
+        },
+        {
+          "index": 69,
+          "line": 132,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.5"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.5
+        },
+        {
+          "index": 70,
+          "line": 134,
+          "command": "asyncshake",
+          "rawCommand": "asyncshake",
+          "args": [
+            "CHARA",
+            "chara_1",
+            "20",
+            "15",
+            "0.5",
+            "6",
+            "on",
+            "off",
+            "0",
+            "off",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncshake"
+        },
+        {
+          "index": 71,
+          "line": 136,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_5",
+            "se4800007",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 72,
+          "line": 138,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_1",
+            "Panic",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 73,
+          "line": 141,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 74,
+          "line": 142,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "しょ、娼婦が足りない、ですか……つ、つまり、わたしにできることはぁ……。<br>し、しかし、色恋沙汰に縁のないわたしに務まるでしょうか……？",
+            "100101000G",
+            "vc_10010100011_004_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "しょ、娼婦が足りない、ですか……つ、つまり、わたしにできることはぁ……。<br>し、しかし、色恋沙汰に縁のないわたしに務まるでしょうか……？",
+          "voice": "vc_10010100011_004_01"
+        },
+        {
+          "index": 75,
+          "line": 144,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "だから言っただろ？　これに関しては、こっちで何とかするから無理するな。<br>気持ちだけはありがたく受け取っておくから。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "だから言っただろ？　これに関しては、こっちで何とかするから無理するな。<br>気持ちだけはありがたく受け取っておくから。",
+          "voice": ""
+        },
+        {
+          "index": 76,
+          "line": 146,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 77,
+          "line": 147,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 78,
+          "line": 149,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 79,
+          "line": 151,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_1",
+            "FaceAnger",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 80,
+          "line": 153,
+          "command": "asyncshake",
+          "rawCommand": "asyncshake",
+          "args": [
+            "CHARA",
+            "chara_1",
+            "15",
+            "10",
+            "0.25",
+            "3",
+            "on",
+            "off",
+            "0",
+            "off",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncshake"
+        },
+        {
+          "index": 81,
+          "line": 155,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_6",
+            "se4800010",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 82,
+          "line": 157,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_1",
+            "Exclamation",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 83,
+          "line": 159,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.5"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.5
+        },
+        {
+          "index": 84,
+          "line": 162,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 85,
+          "line": 163,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "い……いえ！　忠誠を捧げた主君を助けることが、騎士の役目です！<br>ここで退いては騎士の名折れ！　どうか司令官殿のお力にならせてください！",
+            "100101000G",
+            "vc_10010100011_005_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "い……いえ！　忠誠を捧げた主君を助けることが、騎士の役目です！<br>ここで退いては騎士の名折れ！　どうか司令官殿のお力にならせてください！",
+          "voice": "vc_10010100011_005_01"
+        },
+        {
+          "index": 86,
+          "line": 165,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "そこまで言うなら……分かったよ。<br>お前の力を貸してもらおう。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "そこまで言うなら……分かったよ。<br>お前の力を貸してもらおう。",
+          "voice": ""
+        },
+        {
+          "index": 87,
+          "line": 167,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_1",
+            "FaceHappy",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 88,
+          "line": 169,
+          "command": "asyncjump",
+          "rawCommand": "asyncjump",
+          "args": [
+            "CHARA",
+            "chara_1",
+            "-30.6",
+            "0.5",
+            "1",
+            "off",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncjump"
+        },
+        {
+          "index": 89,
+          "line": 171,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_7",
+            "se4800018",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 90,
+          "line": 173,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_1",
+            "Flower",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 91,
+          "line": 176,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "はいっ！",
+            "100101000G",
+            "vc_10010100011_006_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "はいっ！",
+          "voice": "vc_10010100011_006_01"
+        },
+        {
+          "index": 92,
+          "line": 178,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 93,
+          "line": 179,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 94,
+          "line": 181,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 95,
+          "line": 183,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.5"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.5
+        },
+        {
+          "index": 96,
+          "line": 185,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_1",
+            "FaceShy",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 97,
+          "line": 187,
+          "command": "asyncshake",
+          "rawCommand": "asyncshake",
+          "args": [
+            "CHARA",
+            "chara_1",
+            "15",
+            "10",
+            "0.25",
+            "3",
+            "on",
+            "off",
+            "0",
+            "off",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncshake"
+        },
+        {
+          "index": 98,
+          "line": 189,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_8",
+            "se4800007",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 99,
+          "line": 191,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_1",
+            "Panic",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 100,
+          "line": 193,
+          "command": "asyncwait",
+          "rawCommand": "asyncwait",
+          "args": [],
+          "category": "unknown",
+          "title": "asyncwait"
+        },
+        {
+          "index": 101,
+          "line": 195,
+          "command": "asyncjump",
+          "rawCommand": "asyncjump",
+          "args": [
+            "CHARA",
+            "chara_1",
+            "-30.6",
+            "0.5",
+            "1",
+            "off",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncjump"
+        },
+        {
+          "index": 102,
+          "line": 197,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_9",
+            "se4800012",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 103,
+          "line": 199,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_1",
+            "Shy",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 104,
+          "line": 202,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 105,
+          "line": 203,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "あ、でも……わたしは、そういうことは初めてでして……。<br>お店の前に……し、司令官殿に、て、手ほどきをしてほしいのですが……",
+            "100101000G",
+            "vc_10010100011_007_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "あ、でも……わたしは、そういうことは初めてでして……。<br>お店の前に……し、司令官殿に、て、手ほどきをしてほしいのですが……",
+          "voice": "vc_10010100011_007_01"
+        },
+        {
+          "index": 106,
+          "line": 205,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "",
+            "モジモジとしながら上目遣いに見つめられる。<br>そのつもりだったこちらは、すぐに頷くのだった。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "",
+          "message": "モジモジとしながら上目遣いに見つめられる。<br>そのつもりだったこちらは、すぐに頷くのだった。",
+          "voice": ""
+        },
+        {
+          "index": 107,
+          "line": 207,
+          "command": "bgmstop",
+          "rawCommand": "bgmstop",
+          "args": [
+            "bgmtag1_1",
+            "1.5",
+            "0"
+          ],
+          "category": "audio",
+          "title": "停止 BGM",
+          "tag": "bgmtag1_1"
+        },
+        {
+          "index": 108,
+          "line": 210,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 109,
+          "line": 211,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 110,
+          "line": 213,
+          "command": "transitionfade",
+          "rawCommand": "transitionFade",
+          "args": [
+            "Tra06",
+            "out",
+            "black",
+            "1"
+          ],
+          "category": "unknown",
+          "title": "transitionFade",
+          "direction": "Tra06",
+          "color": "out",
+          "seconds": 0.0
+        },
+        {
+          "index": 111,
+          "line": 215,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 112,
+          "line": 217,
+          "command": "sestop",
+          "rawCommand": "sestop",
+          "args": [
+            "setag1_9",
+            "0.1"
+          ],
+          "category": "unknown",
+          "title": "sestop"
+        },
+        {
+          "index": 113,
+          "line": 219,
+          "command": "bg",
+          "rawCommand": "bg",
+          "args": [
+            "abg12100a"
+          ],
+          "category": "unknown",
+          "title": "bg"
+        },
+        {
+          "index": 114,
+          "line": 221,
+          "command": "scale",
+          "rawCommand": "scale",
+          "args": [
+            "BACK",
+            "",
+            "0",
+            "1",
+            "1",
+            "Set"
+          ],
+          "category": "unknown",
+          "title": "scale"
+        },
+        {
+          "index": 115,
+          "line": 223,
+          "command": "blur",
+          "rawCommand": "blur",
+          "args": [
+            "off",
+            "BACK",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "blur"
+        },
+        {
+          "index": 116,
+          "line": 225,
+          "command": "charahide",
+          "rawCommand": "charahide",
+          "args": [
+            "chara_1",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "charahide"
+        },
+        {
+          "index": 117,
+          "line": 227,
+          "command": "emodelete",
+          "rawCommand": "emodelete",
+          "args": [
+            "chara_1",
+            "0",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "emodelete"
+        },
+        {
+          "index": 118,
+          "line": 229,
+          "command": "bgmplay",
+          "rawCommand": "bgmplay",
+          "args": [
+            "bgmtag1_2",
+            "bgm0033",
+            "0.75",
+            "1"
+          ],
+          "category": "audio",
+          "title": "播放 BGM",
+          "cue": "bgm0033"
+        },
+        {
+          "index": 119,
+          "line": 231,
+          "command": "transitionfade",
+          "rawCommand": "transitionFade",
+          "args": [
+            "Tra05",
+            "in",
+            "black",
+            "1"
+          ],
+          "category": "unknown",
+          "title": "transitionFade",
+          "direction": "Tra05",
+          "color": "in",
+          "seconds": 0.0
+        },
+        {
+          "index": 120,
+          "line": 233,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "1"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 1.0
+        },
+        {
+          "index": 121,
+          "line": 235,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_2",
+            "FaceSad",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 122,
+          "line": 237,
+          "command": "asynccharashow",
+          "rawCommand": "asynccharashow",
+          "args": [
+            "chara_2",
+            "0.5",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharashow"
+        },
+        {
+          "index": 123,
+          "line": 239,
+          "command": "asynccharamove",
+          "rawCommand": "asynccharamove",
+          "args": [
+            "chara_2",
+            "EaseOut",
+            "X",
+            "100",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharamove"
+        },
+        {
+          "index": 124,
+          "line": 241,
+          "command": "asyncwait",
+          "rawCommand": "asyncwait",
+          "args": [],
+          "category": "unknown",
+          "title": "asyncwait"
+        },
+        {
+          "index": 125,
+          "line": 243,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.5"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.5
+        },
+        {
+          "index": 126,
+          "line": 245,
+          "command": "asyncjump",
+          "rawCommand": "asyncjump",
+          "args": [
+            "CHARA",
+            "chara_2",
+            "-30.6",
+            "0.5",
+            "1",
+            "off",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncjump"
+        },
+        {
+          "index": 127,
+          "line": 247,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_10",
+            "se4800008",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 128,
+          "line": 249,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_2",
+            "Sweat",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 129,
+          "line": 252,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 130,
+          "line": 253,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "き、着替えてきましたぁ……",
+            "100101000X",
+            "vc_10010100011_008_01",
+            "chara_2"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "き、着替えてきましたぁ……",
+          "voice": "vc_10010100011_008_01"
+        },
+        {
+          "index": 131,
+          "line": 255,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 132,
+          "line": 256,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 133,
+          "line": 258,
+          "command": "crossfadeready",
+          "rawCommand": "crossfadeready",
+          "args": [],
+          "category": "unknown",
+          "title": "crossfadeready"
+        },
+        {
+          "index": 134,
+          "line": 260,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 135,
+          "line": 262,
+          "command": "subimagefade",
+          "rawCommand": "subimagefade",
+          "args": [
+            "subimage_1",
+            "0",
+            "0.6235",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "subimagefade"
+        },
+        {
+          "index": 136,
+          "line": 264,
+          "command": "crossfade",
+          "rawCommand": "crossfade",
+          "args": [
+            "0.1",
+            "0",
+            "0",
+            "1",
+            "1"
+          ],
+          "category": "unknown",
+          "title": "crossfade"
+        },
+        {
+          "index": 137,
+          "line": 265,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.1"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.1
+        },
+        {
+          "index": 138,
+          "line": 267,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 139,
+          "line": 268,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "（これは……思った以上に破壊力があるな）"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "（これは……思った以上に破壊力があるな）",
+          "voice": ""
+        },
+        {
+          "index": 140,
+          "line": 270,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 141,
+          "line": 271,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 142,
+          "line": 273,
+          "command": "crossfadeready",
+          "rawCommand": "crossfadeready",
+          "args": [],
+          "category": "unknown",
+          "title": "crossfadeready"
+        },
+        {
+          "index": 143,
+          "line": 275,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 144,
+          "line": 277,
+          "command": "subimagefade",
+          "rawCommand": "subimagefade",
+          "args": [
+            "subimage_1",
+            "0.6235",
+            "0",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "subimagefade"
+        },
+        {
+          "index": 145,
+          "line": 279,
+          "command": "crossfade",
+          "rawCommand": "crossfade",
+          "args": [
+            "0.1",
+            "0",
+            "0",
+            "1",
+            "1"
+          ],
+          "category": "unknown",
+          "title": "crossfade"
+        },
+        {
+          "index": 146,
+          "line": 280,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.1"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.1
+        },
+        {
+          "index": 147,
+          "line": 282,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_2",
+            "FaceShy",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 148,
+          "line": 284,
+          "command": "asyncshake",
+          "rawCommand": "asyncshake",
+          "args": [
+            "CHARA",
+            "chara_2",
+            "20",
+            "0",
+            "0.5",
+            "1",
+            "off",
+            "off",
+            "0",
+            "off",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncshake"
+        },
+        {
+          "index": 149,
+          "line": 286,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_11",
+            "se4800007",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 150,
+          "line": 288,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_2",
+            "Panic",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 151,
+          "line": 291,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 152,
+          "line": 292,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "えっと、その……<br>これは少々、ハ、ハレンチすぎるのではないでしょうか……？",
+            "100101000X",
+            "vc_10010100011_009_01",
+            "chara_2"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "えっと、その……<br>これは少々、ハ、ハレンチすぎるのではないでしょうか……？",
+          "voice": "vc_10010100011_009_01"
+        },
+        {
+          "index": 153,
+          "line": 294,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "安心しろ。ここでは普通だ。<br>それに、よく似合っているぞ。正直、驚いたくらいだ。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "安心しろ。ここでは普通だ。<br>それに、よく似合っているぞ。正直、驚いたくらいだ。",
+          "voice": ""
+        },
+        {
+          "index": 154,
+          "line": 296,
+          "command": "asynccharaface",
+          "rawCommand": "asynccharaface",
+          "args": [
+            "chara_2",
+            "FaceUnique02",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaface"
+        },
+        {
+          "index": 155,
+          "line": 298,
+          "command": "asyncshake",
+          "rawCommand": "asyncshake",
+          "args": [
+            "CHARA",
+            "chara_2",
+            "15",
+            "10",
+            "0.25",
+            "3",
+            "on",
+            "off",
+            "0",
+            "off",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncshake"
+        },
+        {
+          "index": 156,
+          "line": 300,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_12",
+            "se4800012",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 157,
+          "line": 302,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_2",
+            "Shy",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 158,
+          "line": 305,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "そ、そうですか……？<br>司令官殿にそう言われると、嬉しいような……うぅ……",
+            "100101000X",
+            "vc_10010100011_010_01",
+            "chara_2"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "そ、そうですか……？<br>司令官殿にそう言われると、嬉しいような……うぅ……",
+          "voice": "vc_10010100011_010_01"
+        },
+        {
+          "index": 159,
+          "line": 307,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "それじゃあ、さっそく始めるか。<br>なるべく優しく教えてやるから……こっちに来てくれ。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "それじゃあ、さっそく始めるか。<br>なるべく優しく教えてやるから……こっちに来てくれ。",
+          "voice": ""
+        },
+        {
+          "index": 160,
+          "line": 309,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 161,
+          "line": 310,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.15"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.15
+        },
+        {
+          "index": 162,
+          "line": 312,
+          "command": "crossfadeready",
+          "rawCommand": "crossfadeready",
+          "args": [],
+          "category": "unknown",
+          "title": "crossfadeready"
+        },
+        {
+          "index": 163,
+          "line": 314,
+          "command": "charafocusonall",
+          "rawCommand": "charafocusonall",
+          "args": [],
+          "category": "unknown",
+          "title": "charafocusonall"
+        },
+        {
+          "index": 164,
+          "line": 316,
+          "command": "charahide",
+          "rawCommand": "charahide",
+          "args": [
+            "chara_2",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "charahide"
+        },
+        {
+          "index": 165,
+          "line": 318,
+          "command": "emodelete",
+          "rawCommand": "emodelete",
+          "args": [
+            "chara_2",
+            "0",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "emodelete"
+        },
+        {
+          "index": 166,
+          "line": 320,
+          "command": "charaface",
+          "rawCommand": "charaface",
+          "args": [
+            "chara_2",
+            "FaceUnique02"
+          ],
+          "category": "unknown",
+          "title": "charaface"
+        },
+        {
+          "index": 167,
+          "line": 322,
+          "command": "asynccharamove",
+          "rawCommand": "asynccharamove",
+          "args": [
+            "chara_2",
+            "Set",
+            "X",
+            "0",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asynccharamove"
+        },
+        {
+          "index": 168,
+          "line": 324,
+          "command": "asynccharamove",
+          "rawCommand": "asynccharamove",
+          "args": [
+            "chara_2",
+            "Set",
+            "CharaHeight",
+            "0",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asynccharamove"
+        },
+        {
+          "index": 169,
+          "line": 326,
+          "command": "charascale",
+          "rawCommand": "charascale",
+          "args": [
+            "chara_2",
+            "1.3",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "charascale"
+        },
+        {
+          "index": 170,
+          "line": 329,
+          "command": "charashowalpha",
+          "rawCommand": "charashowalpha",
+          "args": [
+            "chara_2",
+            "1",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "charashowalpha"
+        },
+        {
+          "index": 171,
+          "line": 331,
+          "command": "crossfade",
+          "rawCommand": "crossfade",
+          "args": [
+            "1",
+            "0",
+            "0",
+            "1",
+            "1"
+          ],
+          "category": "unknown",
+          "title": "crossfade"
+        },
+        {
+          "index": 172,
+          "line": 332,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "1"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 1.0
+        },
+        {
+          "index": 173,
+          "line": 334,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "0.5"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 0.5
+        },
+        {
+          "index": 174,
+          "line": 336,
+          "command": "asyncjump",
+          "rawCommand": "asyncjump",
+          "args": [
+            "CHARA",
+            "chara_2",
+            "-30.6",
+            "0.5",
+            "1",
+            "off",
+            "0",
+            "CONT"
+          ],
+          "category": "unknown",
+          "title": "asyncjump"
+        },
+        {
+          "index": 175,
+          "line": 338,
+          "command": "asyncseplay",
+          "rawCommand": "asyncseplay",
+          "args": [
+            "setag1_13",
+            "se4800007",
+            "0",
+            "1",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asyncseplay"
+        },
+        {
+          "index": 176,
+          "line": 340,
+          "command": "asynccharaemo",
+          "rawCommand": "asynccharaemo",
+          "args": [
+            "chara_2",
+            "Panic",
+            "CONT",
+            "0"
+          ],
+          "category": "unknown",
+          "title": "asynccharaemo"
+        },
+        {
+          "index": 177,
+          "line": 343,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "on",
+            "0.15"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 178,
+          "line": 344,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "は、はいっ！<br>ご指導、よろしくお願いします……！",
+            "100101000X",
+            "vc_10010100011_011_01",
+            "chara_2"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "は、はいっ！<br>ご指導、よろしくお願いします……！",
+          "voice": "vc_10010100011_011_01"
+        },
+        {
+          "index": 179,
+          "line": 346,
+          "command": "labeljump",
+          "rawCommand": "labeljump",
+          "args": [
+            "b"
+          ],
+          "category": "unknown",
+          "title": "labeljump"
+        },
+        {
+          "index": 180,
+          "line": 348,
+          "command": ":label",
+          "rawCommand": ":SkipPoint",
+          "args": [],
+          "category": "flow",
+          "title": "标签",
+          "label": "SkipPoint"
+        },
+        {
+          "index": 181,
+          "line": 349,
+          "command": "uivisible",
+          "rawCommand": "uivisible",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "UI 可见性"
+        },
+        {
+          "index": 182,
+          "line": 350,
+          "command": "cleanskip",
+          "rawCommand": "cleanskip",
+          "args": [],
+          "category": "unknown",
+          "title": "cleanskip"
+        },
+        {
+          "index": 183,
+          "line": 352,
+          "command": ":label",
+          "rawCommand": ":b",
+          "args": [],
+          "category": "flow",
+          "title": "标签",
+          "label": "b"
+        },
+        {
+          "index": 184,
+          "line": 353,
+          "command": "window",
+          "rawCommand": "window",
+          "args": [
+            "off"
+          ],
+          "category": "ui",
+          "title": "文本窗口"
+        },
+        {
+          "index": 185,
+          "line": 354,
+          "command": "bgmstop",
+          "rawCommand": "bgmstop",
+          "args": [
+            "bgmtag1_2",
+            "1"
+          ],
+          "category": "audio",
+          "title": "停止 BGM",
+          "tag": "bgmtag1_2"
+        },
+        {
+          "index": 186,
+          "line": 355,
+          "command": "fade",
+          "rawCommand": "fade",
+          "args": [
+            "Out",
+            "Black",
+            "1"
+          ],
+          "category": "screen",
+          "title": "画面淡入淡出",
+          "direction": "Out",
+          "color": "Black",
+          "seconds": 1.0
+        },
+        {
+          "index": 187,
+          "line": 356,
+          "command": "wait",
+          "rawCommand": "wait",
+          "args": [
+            "1"
+          ],
+          "category": "flow",
+          "title": "等待",
+          "seconds": 1.0
+        },
+        {
+          "index": 188,
+          "line": 357,
+          "command": "cleanall",
+          "rawCommand": "cleanall",
+          "args": [
+            "ALL"
+          ],
+          "category": "screen",
+          "title": "清空场景"
+        }
+      ],
+      "messages": [
+        {
+          "index": 16,
+          "line": 28,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "困ったな……。<br>娼館が盛況なのはいいんだが、人手が足りなくなってきたか……"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "困ったな……。<br>娼館が盛況なのはいいんだが、人手が足りなくなってきたか……",
+          "voice": ""
+        },
+        {
+          "index": 41,
+          "line": 76,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "お困りでしょうか、司令官殿！<br>散歩していたところ困ったという言葉が聞こえたので、駆けつけました！",
+            "100101000G",
+            "vc_10010100011_001_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "お困りでしょうか、司令官殿！<br>散歩していたところ困ったという言葉が聞こえたので、駆けつけました！",
+          "voice": "vc_10010100011_001_01"
+        },
+        {
+          "index": 47,
+          "line": 86,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "耳が良すぎる！　<br>お、お前は相変わらずどこからでも現れるな……"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "耳が良すぎる！　<br>お、お前は相変わらずどこからでも現れるな……",
+          "voice": ""
+        },
+        {
+          "index": 52,
+          "line": 97,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "わたしは司令官殿の騎士ですから、困っている時に駆けつけるのは当然です！<br>それで、何があったのでしょう？　なんなりとお申し付けください！",
+            "100101000G",
+            "vc_10010100011_002_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "わたしは司令官殿の騎士ですから、困っている時に駆けつけるのは当然です！<br>それで、何があったのでしょう？　なんなりとお申し付けください！",
+          "voice": "vc_10010100011_002_01"
+        },
+        {
+          "index": 53,
+          "line": 99,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "気持ちはありがたいが、さすがにこれはな……"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "気持ちはありがたいが、さすがにこれはな……",
+          "voice": ""
+        },
+        {
+          "index": 58,
+          "line": 110,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "遠慮しないでください！　わたし、頑張りますから！",
+            "100101000G",
+            "vc_10010100011_003_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "遠慮しないでください！　わたし、頑張りますから！",
+          "voice": "vc_10010100011_003_01"
+        },
+        {
+          "index": 59,
+          "line": 112,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "……それじゃあ、言うだけ言うが。<br>実はな……"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "……それじゃあ、言うだけ言うが。<br>実はな……",
+          "voice": ""
+        },
+        {
+          "index": 74,
+          "line": 142,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "しょ、娼婦が足りない、ですか……つ、つまり、わたしにできることはぁ……。<br>し、しかし、色恋沙汰に縁のないわたしに務まるでしょうか……？",
+            "100101000G",
+            "vc_10010100011_004_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "しょ、娼婦が足りない、ですか……つ、つまり、わたしにできることはぁ……。<br>し、しかし、色恋沙汰に縁のないわたしに務まるでしょうか……？",
+          "voice": "vc_10010100011_004_01"
+        },
+        {
+          "index": 75,
+          "line": 144,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "だから言っただろ？　これに関しては、こっちで何とかするから無理するな。<br>気持ちだけはありがたく受け取っておくから。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "だから言っただろ？　これに関しては、こっちで何とかするから無理するな。<br>気持ちだけはありがたく受け取っておくから。",
+          "voice": ""
+        },
+        {
+          "index": 85,
+          "line": 163,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "い……いえ！　忠誠を捧げた主君を助けることが、騎士の役目です！<br>ここで退いては騎士の名折れ！　どうか司令官殿のお力にならせてください！",
+            "100101000G",
+            "vc_10010100011_005_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "い……いえ！　忠誠を捧げた主君を助けることが、騎士の役目です！<br>ここで退いては騎士の名折れ！　どうか司令官殿のお力にならせてください！",
+          "voice": "vc_10010100011_005_01"
+        },
+        {
+          "index": 86,
+          "line": 165,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "そこまで言うなら……分かったよ。<br>お前の力を貸してもらおう。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "そこまで言うなら……分かったよ。<br>お前の力を貸してもらおう。",
+          "voice": ""
+        },
+        {
+          "index": 91,
+          "line": 176,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "はいっ！",
+            "100101000G",
+            "vc_10010100011_006_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "はいっ！",
+          "voice": "vc_10010100011_006_01"
+        },
+        {
+          "index": 105,
+          "line": 203,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "あ、でも……わたしは、そういうことは初めてでして……。<br>お店の前に……し、司令官殿に、て、手ほどきをしてほしいのですが……",
+            "100101000G",
+            "vc_10010100011_007_01",
+            "chara_1"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "あ、でも……わたしは、そういうことは初めてでして……。<br>お店の前に……し、司令官殿に、て、手ほどきをしてほしいのですが……",
+          "voice": "vc_10010100011_007_01"
+        },
+        {
+          "index": 106,
+          "line": 205,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "",
+            "モジモジとしながら上目遣いに見つめられる。<br>そのつもりだったこちらは、すぐに頷くのだった。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "",
+          "message": "モジモジとしながら上目遣いに見つめられる。<br>そのつもりだったこちらは、すぐに頷くのだった。",
+          "voice": ""
+        },
+        {
+          "index": 130,
+          "line": 253,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "き、着替えてきましたぁ……",
+            "100101000X",
+            "vc_10010100011_008_01",
+            "chara_2"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "き、着替えてきましたぁ……",
+          "voice": "vc_10010100011_008_01"
+        },
+        {
+          "index": 139,
+          "line": 268,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "（これは……思った以上に破壊力があるな）"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "（これは……思った以上に破壊力があるな）",
+          "voice": ""
+        },
+        {
+          "index": 152,
+          "line": 292,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "えっと、その……<br>これは少々、ハ、ハレンチすぎるのではないでしょうか……？",
+            "100101000X",
+            "vc_10010100011_009_01",
+            "chara_2"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "えっと、その……<br>これは少々、ハ、ハレンチすぎるのではないでしょうか……？",
+          "voice": "vc_10010100011_009_01"
+        },
+        {
+          "index": 153,
+          "line": 294,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "安心しろ。ここでは普通だ。<br>それに、よく似合っているぞ。正直、驚いたくらいだ。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "安心しろ。ここでは普通だ。<br>それに、よく似合っているぞ。正直、驚いたくらいだ。",
+          "voice": ""
+        },
+        {
+          "index": 158,
+          "line": 305,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "そ、そうですか……？<br>司令官殿にそう言われると、嬉しいような……うぅ……",
+            "100101000X",
+            "vc_10010100011_010_01",
+            "chara_2"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "そ、そうですか……？<br>司令官殿にそう言われると、嬉しいような……うぅ……",
+          "voice": "vc_10010100011_010_01"
+        },
+        {
+          "index": 159,
+          "line": 307,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "<user>",
+            "それじゃあ、さっそく始めるか。<br>なるべく優しく教えてやるから……こっちに来てくれ。"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "<user>",
+          "message": "それじゃあ、さっそく始めるか。<br>なるべく優しく教えてやるから……こっちに来てくれ。",
+          "voice": ""
+        },
+        {
+          "index": 178,
+          "line": 344,
+          "command": "message",
+          "rawCommand": "message",
+          "args": [
+            "ローザ",
+            "は、はいっ！<br>ご指導、よろしくお願いします……！",
+            "100101000X",
+            "vc_10010100011_011_01",
+            "chara_2"
+          ],
+          "category": "text",
+          "title": "旁白/普通文本",
+          "speaker": "ローザ",
+          "message": "は、はいっ！<br>ご指導、よろしくお願いします……！",
+          "voice": "vc_10010100011_011_01"
+        }
+      ],
+      "labels": [
+        "SkipPoint",
+        "b"
+      ],
+      "audioIds": [
+        "bgm0024",
+        "bgm0033",
+        "vc_10010100011_001_01",
+        "vc_10010100011_002_01",
+        "vc_10010100011_003_01",
+        "vc_10010100011_004_01",
+        "vc_10010100011_005_01",
+        "vc_10010100011_006_01",
+        "vc_10010100011_007_01",
+        "vc_10010100011_008_01",
+        "vc_10010100011_009_01",
+        "vc_10010100011_010_01",
+        "vc_10010100011_011_01"
+      ],
+      "motions": [],
+      "commandCounts": {
+        ":label": 2,
+        "asynccharaemo": 12,
+        "asynccharaface": 9,
+        "asynccharamove": 6,
+        "asynccharascale": 1,
+        "asynccharashow": 2,
+        "asyncjump": 7,
+        "asyncmove": 2,
+        "asyncseplay": 13,
+        "asyncshake": 5,
+        "asyncwait": 3,
+        "bg": 4,
+        "bgmplay": 2,
+        "bgmstop": 2,
+        "blur": 2,
+        "charaface": 2,
+        "charafocusonall": 9,
+        "charahide": 2,
+        "charaload": 2,
+        "charamove": 1,
+        "charascale": 1,
+        "charashowalpha": 1,
+        "cleanall": 1,
+        "cleanskip": 1,
+        "crossfade": 3,
+        "crossfadeready": 3,
+        "emodelete": 2,
+        "fade": 3,
+        "initend": 1,
+        "labeljump": 1,
+        "linework": 2,
+        "live2dinit": 1,
+        "message": 21,
+        "scale": 5,
+        "seplay": 1,
+        "sestop": 1,
+        "subimage": 1,
+        "subimagefade": 2,
+        "title": 1,
+        "transitioncrossfade": 1,
+        "transitioncrossfadeready": 1,
+        "transitionfade": 4,
+        "uivisible": 1,
+        "wait": 22,
+        "window": 20
+      }
+    }
+  ],
+  "primaryScript": "hmr_10010100011",
+  "live2d": {
+    "moc": null,
+    "textures": [],
+    "animations": [],
+    "motions": [],
+    "fadeMotions": [],
+    "monoBehaviours": [],
+    "model3": null
+  },
+  "audio": {
+    "cues": {
+      "vc_10010100011_001_01": {
+        "name": "vc_10010100011_001_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_001_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 1,
+        "duration": 7.984041666666666,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 74499,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_001_01.wav"
+      },
+      "vc_10010100011_002_01": {
+        "name": "vc_10010100011_002_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_002_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 2,
+        "duration": 12.150270833333334,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 105684,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_002_01.wav"
+      },
+      "vc_10010100011_003_01": {
+        "name": "vc_10010100011_003_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_003_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 3,
+        "duration": 4.1818125,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 41684,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_003_01.wav"
+      },
+      "vc_10010100011_004_01": {
+        "name": "vc_10010100011_004_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_004_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 4,
+        "duration": 13.796875,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 113953,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_004_01.wav"
+      },
+      "vc_10010100011_005_01": {
+        "name": "vc_10010100011_005_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_005_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 5,
+        "duration": 14.453520833333334,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 125085,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_005_01.wav"
+      },
+      "vc_10010100011_006_01": {
+        "name": "vc_10010100011_006_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_006_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 6,
+        "duration": 0.5919166666666666,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 7318,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_006_01.wav"
+      },
+      "vc_10010100011_007_01": {
+        "name": "vc_10010100011_007_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_007_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 7,
+        "duration": 16.698666666666668,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 123924,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_007_01.wav"
+      },
+      "vc_10010100011_008_01": {
+        "name": "vc_10010100011_008_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_008_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 8,
+        "duration": 3.029375,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 26707,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_008_01.wav"
+      },
+      "vc_10010100011_009_01": {
+        "name": "vc_10010100011_009_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_009_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 9,
+        "duration": 9.0250625,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 70560,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_009_01.wav"
+      },
+      "vc_10010100011_010_01": {
+        "name": "vc_10010100011_010_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_010_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 10,
+        "duration": 10.305416666666666,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 77602,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_010_01.wav"
+      },
+      "vc_10010100011_011_01": {
+        "name": "vc_10010100011_011_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_011_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 11,
+        "duration": 4.613729166666666,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 39043,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_011_01.wav"
+      }
+    },
+    "raw": [
+      {
+        "path": "audio/raw/hmr_10010100011.acb",
+        "source": "r18-only-sound-cri/assets/assets/project/lazyassets/r18-only/sound/cri/pc/workunit/novel/r18/voice/chara/chara/100101000/hmr/10010100011.acb_31b6f78171b41346a9c422996a4c41ce.bundle",
+        "bytes": 1557344
+      },
+      {
+        "path": "audio/raw/bgm0024.acb",
+        "source": "general-sound-cri/assets/assets/project/lazyassets/general/sound/cri/pc/workunit/novel/bgm/bgm0024.acb_d1a43508fcadbdb96505c2edeca977af.bundle",
+        "bytes": 7328
+      }
+    ],
+    "decoded": [
+      {
+        "name": "vc_10010100011_001_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_001_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 1,
+        "duration": 7.984041666666666,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 74499,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_001_01.wav"
+      },
+      {
+        "name": "vc_10010100011_002_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_002_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 2,
+        "duration": 12.150270833333334,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 105684,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_002_01.wav"
+      },
+      {
+        "name": "vc_10010100011_003_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_003_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 3,
+        "duration": 4.1818125,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 41684,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_003_01.wav"
+      },
+      {
+        "name": "vc_10010100011_004_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_004_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 4,
+        "duration": 13.796875,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 113953,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_004_01.wav"
+      },
+      {
+        "name": "vc_10010100011_005_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_005_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 5,
+        "duration": 14.453520833333334,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 125085,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_005_01.wav"
+      },
+      {
+        "name": "vc_10010100011_006_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_006_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 6,
+        "duration": 0.5919166666666666,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 7318,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_006_01.wav"
+      },
+      {
+        "name": "vc_10010100011_007_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_007_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 7,
+        "duration": 16.698666666666668,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 123924,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_007_01.wav"
+      },
+      {
+        "name": "vc_10010100011_008_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_008_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 8,
+        "duration": 3.029375,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 26707,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_008_01.wav"
+      },
+      {
+        "name": "vc_10010100011_009_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_009_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 9,
+        "duration": 9.0250625,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 70560,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_009_01.wav"
+      },
+      {
+        "name": "vc_10010100011_010_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_010_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 10,
+        "duration": 10.305416666666666,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 77602,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_010_01.wav"
+      },
+      {
+        "name": "vc_10010100011_011_01",
+        "category": "voice",
+        "path": "audio/decoded/voice/vc_10010100011_011_01.ogg",
+        "source": "audio/raw/hmr_10010100011.acb",
+        "subsong": 11,
+        "duration": 4.613729166666666,
+        "sampleRate": 48000,
+        "channels": 1,
+        "encoding": "CRI HCA",
+        "bytes": 39043,
+        "fallbackPath": "audio/decoded/voice/vc_10010100011_011_01.wav"
+      }
+    ],
+    "errors": [],
+    "decoder": "vgmstream-cli"
+  },
+  "manifest": {
+    "entries": [
+      {
+        "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100011_hmr_10010100011.txt_af81ba39e8c48e1c5a07f00a3ef907a7.bundle",
+        "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/mainchara/hmr/10010100011/hmr/10010100011.txt_af81ba39e8c48e1c5a07f00a3ef907a7.bundle",
+        "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_mainchara_hmr_10010100011_hmr_10010100011.txt_af81ba39e8c48e1c5a07f00a3ef907a7.bundle",
+        "expectedSize": "4274",
+        "hash": "",
+        "crc": "0",
+        "providerId": ""
+      },
+      {
+        "remoteRelativePath": "r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_scriptableobject_hmr_10010100011.asset_2391f6cfc1e1678d8a74098f98e8e586.bundle",
+        "outputRelativePath": "r18-only-novel/assets/assets/project/lazyassets/r18-only/novel/scriptableobject/hmr/10010100011.asset_2391f6cfc1e1678d8a74098f98e8e586.bundle",
+        "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-novel_assets_assets_project_lazyassets_r18-only_novel_scriptableobject_hmr_10010100011.asset_2391f6cfc1e1678d8a74098f98e8e586.bundle",
+        "expectedSize": "1661",
+        "hash": "",
+        "crc": "0",
+        "providerId": ""
+      },
+      {
+        "remoteRelativePath": "r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_voice_chara_chara_100101000_hmr_10010100011.acb_31b6f78171b41346a9c422996a4c41ce.bundle",
+        "outputRelativePath": "r18-only-sound-cri/assets/assets/project/lazyassets/r18-only/sound/cri/pc/workunit/novel/r18/voice/chara/chara/100101000/hmr/10010100011.acb_31b6f78171b41346a9c422996a4c41ce.bundle",
+        "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_voice_chara_chara_100101000_hmr_10010100011.acb_31b6f78171b41346a9c422996a4c41ce.bundle",
+        "expectedSize": "1534926",
+        "hash": "",
+        "crc": "0",
+        "providerId": ""
+      }
+    ],
+    "audio": [
+      {
+        "remoteRelativePath": "r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_voice_chara_chara_100101000_hmr_10010100011.acb_31b6f78171b41346a9c422996a4c41ce.bundle",
+        "outputRelativePath": "r18-only-sound-cri/assets/assets/project/lazyassets/r18-only/sound/cri/pc/workunit/novel/r18/voice/chara/chara/100101000/hmr/10010100011.acb_31b6f78171b41346a9c422996a4c41ce.bundle",
+        "url": "https://api.abyss-prod-r18.dotabyss.dmmgames.com/resources/android/r18/aas/12519/aa/r18-only-sound-cri_assets_assets_project_lazyassets_r18-only_sound_cri_pc_workunit_novel_r18_voice_chara_chara_100101000_hmr_10010100011.acb_31b6f78171b41346a9c422996a4c41ce.bundle",
+        "expectedSize": "1534926",
+        "hash": "",
+        "crc": "0",
+        "providerId": ""
+      }
+    ]
+  },
+  "bundleErrors": [],
+  "commandDefinitions": {
+    ":label": {
+      "category": "flow",
+      "title": "标签",
+      "args": [
+        "label"
+      ],
+      "description": "NovelScriptCommands uses ':' lines as jump targets."
+    },
+    "asynccharaemo": {},
+    "asynccharaface": {},
+    "asynccharamove": {},
+    "asynccharascale": {},
+    "asynccharashow": {},
+    "asyncjump": {},
+    "asyncmove": {},
+    "asyncseplay": {},
+    "asyncshake": {},
+    "asyncwait": {},
+    "bg": {},
+    "bgmplay": {
+      "category": "audio",
+      "title": "播放 BGM",
+      "args": [
+        "tag",
+        "cue",
+        "fade_seconds"
+      ],
+      "description": "NovelCmdBGMPlay starts a CRI cue by tag."
+    },
+    "bgmstop": {
+      "category": "audio",
+      "title": "停止 BGM",
+      "args": [
+        "tag",
+        "fade_seconds"
+      ],
+      "description": "NovelCmdBGMStop fades/stops a CRI cue by tag."
+    },
+    "blur": {},
+    "charaface": {},
+    "charafocusonall": {},
+    "charahide": {},
+    "charaload": {
+      "category": "character",
+      "title": "加载角色",
+      "args": [
+        "tag",
+        "character_id",
+        "display_name"
+      ],
+      "description": "NovelCmdCharaLoad registers a character resource/name."
+    },
+    "charamove": {},
+    "charascale": {},
+    "charashowalpha": {},
+    "cleanall": {
+      "category": "screen",
+      "title": "清空场景",
+      "args": [
+        "target"
+      ],
+      "description": "NovelCmdCleanAll clears visible scene objects/layers."
+    },
+    "cleanskip": {},
+    "crossfade": {},
+    "crossfadeready": {},
+    "emodelete": {},
+    "fade": {
+      "category": "screen",
+      "title": "画面淡入淡出",
+      "args": [
+        "In/Out",
+        "color",
+        "seconds"
+      ],
+      "description": "NovelCmdFade drives the screen fade model."
+    },
+    "initend": {},
+    "labeljump": {},
+    "linework": {},
+    "live2dinit": {},
+    "message": {
+      "category": "text",
+      "title": "旁白/普通文本",
+      "args": [
+        "speaker",
+        "message",
+        "voice?"
+      ],
+      "description": "NovelCmdMessage writes to NovelModelMessage and may play voice."
+    },
+    "scale": {},
+    "seplay": {},
+    "sestop": {},
+    "subimage": {},
+    "subimagefade": {},
+    "title": {},
+    "transitioncrossfade": {},
+    "transitioncrossfadeready": {},
+    "transitionfade": {},
+    "uivisible": {
+      "category": "ui",
+      "title": "UI 可见性",
+      "args": [
+        "on/off"
+      ],
+      "description": "NovelCmdUIVisible toggles the common UI layer."
+    },
+    "wait": {
+      "category": "flow",
+      "title": "等待",
+      "args": [
+        "seconds"
+      ],
+      "description": "NovelCmdWait blocks script playback for the given seconds."
+    },
+    "window": {
+      "category": "ui",
+      "title": "文本窗口",
+      "args": [
+        "on/off",
+        "fade_seconds"
+      ],
+      "description": "NovelCmdWindow changes the message window visibility/fade."
+    }
+  },
+  "stats": {
+    "scriptCount": 1,
+    "messageCount": 21,
+    "textureCount": 0,
+    "animationCount": 0,
+    "motionCount": 0,
+    "audioCueCount": 11,
+    "bundleErrorCount": 0
+  }
+}
