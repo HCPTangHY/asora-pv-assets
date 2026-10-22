@@ -9,12 +9,19 @@
       "sourceType": "Sprite",
       "width": 2744,
       "height": 2744
+    },
+    "abg12100a": {
+      "id": "abg12100a",
+      "path": "backgrounds/novel/abg12100a.png",
+      "width": 2744,
+      "height": 2744
+    },
+    "abg18200a": {
+      "id": "abg18200a",
+      "path": "backgrounds/novel/abg18200a.png",
+      "width": 20,
+      "height": 20
     }
   },
-  "errors": [
-    {
-      "id": "abg12100a",
-      "error": "bundle not found"
-    }
-  ]
+  "errors": []
 }
